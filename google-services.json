@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922704466247",
+    "project_id": "studenthub-e7ea6",
+    "storage_bucket": "studenthub-e7ea6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922704466247:android:ee6f18d7a21486bf6abc62",
+        "android_client_info": {
+          "package_name": "com.anggitaran.studenthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922704466247-j9isd0u72skque3jl9v6g9n90rh6d08c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anggitaran.studenthub",
+            "certificate_hash": "62c2e8a839f0d2af79cb997cd2b892e657f57f2f"
+          }
+        },
+        {
+          "client_id": "922704466247-gs16omndbgbptd14n5nl1gro0trjmeog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYX7x9SSUKSr2uS6W-0AlMSnrF3hfIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922704466247-gs16omndbgbptd14n5nl1gro0trjmeog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

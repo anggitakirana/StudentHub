@@ -1,0 +1,17 @@
+
+/* Chrome autofill - Email dan Password */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 1000px #1B1B27 inset !important;
+  -webkit-text-fill-color: #FFFFFF !important;
+  caret-color: #FFFFFF !important;
+  border-radius: 12px;
+  transition: background-color 9999s ease-in-out 0s;
+}
+
+/* Menjaga warna input ketika fokus */
+input {
+  color-scheme: dark;
+}
